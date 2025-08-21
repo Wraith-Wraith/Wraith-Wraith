@@ -1,1 +1,2 @@
-feafeasfaefafea
+def whatever():
+    print('test')
